@@ -1,0 +1,131 @@
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\FontAwesome.Sharp.dll
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HomeForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stuinfoUserControl1.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\bin\Debug\FontAwesome.Sharp.dll
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.appointForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.coursesForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HomeForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.loginForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.settingForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stuinfoForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stuinfoUserControl1.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - stuinfo的save.cancel\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.loginUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.courseUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.appointUserContro1.resources
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.appointUserContro1.resources
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.courseUserControl.resources
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HomeForm.resources
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.loginUserControl.resources
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stuinfoUserControl1.resources
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\bin\Debug\FontAwesome.Sharp.dll
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.appointForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.appointUserContro1.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.coursesForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.courseUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HomeForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.loginForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.loginUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.settingForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stuinfoForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stuinfoUserControl1.resources
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\職訓\廖薈慈-程式課程\個人專題\備份檔-ui\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\bin\Debug\FontAwesome.Sharp.dll
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.appointForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.appointUserContro1.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.coursesForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.courseUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HomeForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.loginForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.loginUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.settingForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stuinfoForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stuinfoUserControl1.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - homeform登入權限按鈕顯示\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.signupUserControl.resources
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.signupUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.signupUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.courselistUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.dayUserControl.resources
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.courselistUserControl.resources
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.dayUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\bin\Debug\FontAwesome.Sharp.dll
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.appointForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.appointUserContro1.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.calanderUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.courselistUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.coursesForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.courseUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.dayUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HomeForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.loginForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.loginUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.mangercourseUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.settingForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.signupUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stuinfoForm.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stuinfoUserControl1.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2 - calander字體可顯示，接著連SQL\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stusysUserControl.resources
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.stusysUserControl.resources
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.btn_儲存新增.resources
+C:\Users\iSpan\Desktop\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.mycourseUserControl.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.btn_儲存新增.resources
+D:\職訓\廖薈慈-程式課程\個人專題\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.mycourseUserControl.resources

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{801004B9-3535-4BCD-8131-1CE17E221913}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp2</RootNamespace>
+    <AssemblyName>WindowsFormsApp2</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.6.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.6.0\lib\net48\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="appointUserContro1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="appointUserContro1.Designer.cs">
+      <DependentUpon>appointUserContro1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calanderUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="calanderUserControl.Designer.cs">
+      <DependentUpon>calanderUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="courselistUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="courselistUserControl.Designer.cs">
+      <DependentUpon>courselistUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="courseUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="courseUserControl.Designer.cs">
+      <DependentUpon>courseUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dayUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="dayUserControl.Designer.cs">
+      <DependentUpon>dayUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalVar.cs" />
+    <Compile Include="HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeForm.Designer.cs">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loginUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="loginUserControl.Designer.cs">
+      <DependentUpon>loginUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mycourseUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="mycourseUserControl.Designer.cs">
+      <DependentUpon>mycourseUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="signupUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="signupUserControl.Designer.cs">
+      <DependentUpon>signupUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stuinfoUserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="stuinfoUserControl1.Designer.cs">
+      <DependentUpon>stuinfoUserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stusysUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="stusysUserControl.Designer.cs">
+      <DependentUpon>stusysUserControl.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="appointUserContro1.resx">
+      <DependentUpon>appointUserContro1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calanderUserControl.resx">
+      <DependentUpon>calanderUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="courselistUserControl.resx">
+      <DependentUpon>courselistUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="courseUserControl.resx">
+      <DependentUpon>courseUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dayUserControl.resx">
+      <DependentUpon>dayUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomeForm.resx">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginUserControl.resx">
+      <DependentUpon>loginUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mycourseUserControl.resx">
+      <DependentUpon>mycourseUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="signupUserControl.resx">
+      <DependentUpon>signupUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stuinfoUserControl1.resx">
+      <DependentUpon>stuinfoUserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stusysUserControl.resx">
+      <DependentUpon>stusysUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
